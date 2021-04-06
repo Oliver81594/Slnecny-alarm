@@ -1,4 +1,4 @@
-Tento projekt som vytvoril ako domácu úlohu na fizyku.
+Tento projekt som vytvoril ako domácu úlohu na fyziku.
 Zadanie bolo vytvoriť príklad na elektrický obvod
 kde by bolo potrebné vypočítať rôzne odpory, napätia aj prúdy.
 Projekt som nazval slnečný alarm.
