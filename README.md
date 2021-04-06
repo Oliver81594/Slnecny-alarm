@@ -12,8 +12,11 @@ Celý projekt som rozdelil do troch častí:
 		-V priečinku je napísané riešenie a postup rátania.
     -Prax
 		-V priečinku prax sa nachádzajú fotky obvodu, ktorý som si sám vymyslel.
-		-Tuto sa zároveň nachádza link na video, kde som predvádzal ako obvod funguje: 
+		-Tuto sa zároveň nachádza link na video, kde som predvádzal ako obvod funguje:
+		Originalne video:
 		https://www.youtube.com/watch?v=DzcVbsfN438
+		Video s vysvetlením:
+		https://www.youtube.com/watch?v=xALjsz0XOUw
 Nanešťastie som si asi skratoval pípač a teda je prúd možné vidieť len pomocou LEDky.
 		 
 		 
